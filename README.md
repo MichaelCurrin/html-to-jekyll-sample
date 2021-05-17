@@ -1,7 +1,19 @@
 # HTML to Jekyll Sample 🌏 🧪
 > A demo to showcase converting a plain HTML site to a Jekyll site
 
+[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/html-to-jekyll-sample?include_prereleases=&sort=semver)](https://github.com/MichaelCurrin/html-to-jekyll-sample/releases/)
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
+
 [![Made with Jekyll](https://img.shields.io/badge/Jekyll-3.9-blue?logo=jekyll&logoColor=white)](https://jekyllrb.com)
+
+
+## Use this project
+
+<div align="center">
+
+[![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/html-to-jekyll-sample/generate)
+
+</div>
 
 
 ## Tutorial
