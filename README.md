@@ -9,6 +9,8 @@
 
 ## Preview
 
+_Note this site is not finished yet - the navbar is not set up right, but the styling and page structure is setup_.
+
 <div align="center">
     <a href="https://michaelcurrin.github.io/html-to-jekyll-sample/">
         <img src="/sample.png" alt="Sample screenshot" title="Sample screenshot" width="400" />
