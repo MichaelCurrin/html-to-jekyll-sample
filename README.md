@@ -83,6 +83,42 @@ If want to build your own theme and then install it in another project of yours,
 - [Jekyll Theme Quickstart](https://github.com/MichaelCurrin/jekyll-theme-quickstart)
 
 
+## Installation
+
+Clone the repo.
+
+Install Ruby and Bundler globally.
+
+Install project gems.
+
+```sh
+$ make install
+```
+
+
+## Usage
+
+Start dev server.
+
+```sh
+$ make serve
+```
+
+Do a production build and output as `_site` directory.
+
+```sh
+$ make build
+```
+
+
+## Deploy
+
+1. Get a copy of this repo on GitHub.
+2. Go to _Setting_ for your repo, _Pages_ and then enable GitHub Pages on the main branch on the root path.
+3. Wait for your site to build.
+4. Check the _Environment_ tab and find the URL for your site.
+
+
 ## License
 
 Released under [MIT](/LICENSE) by [@MichaelCurrin](https://github.com/MichaelCurrin).
