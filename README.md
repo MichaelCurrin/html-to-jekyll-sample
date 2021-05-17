@@ -2,21 +2,37 @@
 > A demo to showcase converting a plain HTML site to a Jekyll site
 
 
-## Tutorial content
+## Tutorial
+
+### YouTube video
 
 I created this repo during this 1-hour live session I did on YouTube:
 
 - [Jekyll live coding](https://www.youtube.com/watch?v=6v5vEBUmkGs)
 
+I encourage you to watch that video and compare it with this repo.
+
 The intention was to take an existing site with content and styling and build a Jekyll site out of it.
 
-I found that this one on CodePen was suitable.
+### Choosing an HTML base
 
-- [Asperion HTML5 template](https://codepen.io/alexdevero/pen/GCirD)
+I found this article of 99 free HTML templates.
 
-I've copied the rendered content to [sample.html](/sample.html) as well to make it easier to compare or in case the pen disappears.
+- [99 Free HTML Templates You Can Download Right Now](https://html.com/resources/free-html-templates/)
 
-I cleaned up the code after the live session and upload it as this repo.
+The first option on that list is this CodePen, which I liked.
+
+- [Asperion HTML5 template](https://codepen.io/alexdevero/pen/GCirD) by [Alex Devero](http://alexdevero.com) / [@alexdevero](https://github.com/alexdevero).
+
+So I used that for the tutorial.
+
+It has "template" in the name, so I feel comfortable that the creator indended the code to be reused by others.
+
+### Upload repo
+
+I cleaned up the code after the live session and upload it as this repo. 
+
+I also copied the rendered content to [sample.html](/sample.html) as well to make it easier to compare the Jekyll site against it and in case the pen disappears.
 
 
 ## Related projects
@@ -35,3 +51,8 @@ If you are interested in a Jekyll site with a theme, see:
 If want to build your own theme and then install it in another project of yours, or let the Jekyll community use your theme, see:
 
 - [Jekyll Theme Quickstart](https://github.com/MichaelCurrin/jekyll-theme-quickstart)
+
+
+## License
+
+Released under [MIT](/LICENSE) by [@MichaelCurrin](https://github.com/MichaelCurrin).
