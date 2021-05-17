@@ -4,7 +4,10 @@
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/html-to-jekyll-sample?include_prereleases=&sort=semver)](https://github.com/MichaelCurrin/html-to-jekyll-sample/releases/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 
+[![Made with Ruby](https://img.shields.io/badge/Ruby->=2.6-blue?logo=ruby&logoColor=white)](https://ruby-lang.org)
 [![Made with Jekyll](https://img.shields.io/badge/Jekyll-3.9-blue?logo=jekyll&logoColor=white)](https://jekyllrb.com)
+
+[![Hosted with GH Pages](https://img.shields.io/badge/Hosted_with-GitHub_Pages-blue?logo=github&logoColor=white)](https://pages.github.com/)
 
 
 ## Preview
