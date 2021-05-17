@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>HTML to Jekyll Sample</title>
+    <meta name="description"
+        content="A demo to showcase converting a plain HTML site to a Jekyll site">
+
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700,300">
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700">
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700">
+
+    <link rel="stylesheet" href="assets/styles.css">
+</head>
+
+<body translate="no">
+    <div class="line"></div>
+    <div class="wrapper">
+        {% include header.html %}
+
+        <main role="main">
+            {{ content }}
+        </main>
+    </div>
+</body>
+
+</html>
