@@ -1,18 +1,20 @@
 # HTML to Jekyll Sample 🌏 🧪
 > A demo to showcase converting a plain HTML site to a Jekyll site
 
+[![Made with Jekyll](https://img.shields.io/badge/Jekyll-3.9-blue?logo=jekyll&logoColor=white)](https://jekyllrb.com)
+
 
 ## Tutorial
 
 ### YouTube video
 
-I created this repo during this 1-hour live session I did on YouTube:
+My intention was to take an existing site with content and styling and build a Jekyll site out of it.
+
+I hosted a live session on YouTube to do just that. It is available as a recording.
 
 - [Jekyll live coding](https://www.youtube.com/watch?v=6v5vEBUmkGs)
 
-I encourage you to watch that video and compare it with this repo.
-
-The intention was to take an existing site with content and styling and build a Jekyll site out of it.
+This repo was created from scratch in that session. I encourage you to watch that video and compare it with this repo.
 
 ### Choosing an HTML base
 
@@ -30,7 +32,7 @@ It has "template" in the name, so I feel comfortable that the creator indended t
 
 ### Upload repo
 
-I cleaned up the code after the live session and upload it as this repo. 
+I cleaned up the code after the live session and upload it as this repo. This is a demo or sample which supplements the tutorial video.
 
 I also copied the rendered content to [sample.html](/sample.html) as well to make it easier to compare the Jekyll site against it and in case the pen disappears.
 
