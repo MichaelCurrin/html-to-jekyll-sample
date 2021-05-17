@@ -1,9 +1,11 @@
 # HTML to Jekyll Sample
 > A demo to showcase converting a plain HTML site to a Jekyll site
 
-This project was built using this template on CodePen:
+This project was built using this template project on CodePen:
 
 - [Asperion HTML5 template](https://codepen.io/alexdevero/pen/GCirD)
+
+I've copied the rendered content to [sample.html](/sample.html) as well to make it easier to compare or in case the pen disappears.
 
 
 ## Related projects
