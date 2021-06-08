@@ -34,6 +34,10 @@ _Note this site is not finished yet - the navbar is not set up right, but the st
 
 ## Tutorial
 
+This explains how I create this project as a new Jekyll site, starting from an HTML site.
+
+For intetest, see also the [HTML to Jekyll](https://jekyllrb.com/tutorials/convert-site-to-jekyll/) tutorial in the Jekyll docs.
+
 ### YouTube video
 
 My intention was to take an existing site with content and styling and build a Jekyll site out of it.
@@ -44,7 +48,7 @@ I hosted a live session on YouTube to do just that. It is available as a recordi
 
 This repo was created from scratch in that session. I encourage you to watch that video and compare it with this repo.
 
-### Choosing an HTML base
+### Choose an HTML base
 
 I found this article of 99 free HTML templates.
 
@@ -58,9 +62,9 @@ So I used that for the tutorial.
 
 It has "template" in the name, so I feel comfortable that the creator indended the code to be reused by others.
 
-### Upload repo
+### Uploaded repo
 
-I cleaned up the code after the live session and upload it as this repo. This is a demo or sample which supplements the tutorial video.
+I cleaned up the code after the live session and uploaded it as this repo. This is a demo or sample which supplements the tutorial video.
 
 I also copied the rendered content to [sample.html](/sample.html) as well to make it easier to compare the Jekyll site against it and in case the pen disappears.
 
